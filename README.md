@@ -18,4 +18,10 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
+## Installation
+   Requires all dependencies in package.json (Node/Express/Sequelize/Dotenv). Run NPM I. Initialize database, seed database, start server. Done. 
+   ## Usage
+   Use it to framework out a database that interacts with a server using RESTful API calls. 
+   Use it to framework out a server that interacts with a database using RESTful API calls. 
+
 GitHub: git@github.com:jmullz-z/Online-Botique.git
